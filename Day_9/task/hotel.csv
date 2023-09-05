@@ -1,0 +1,201 @@
+location,tariff,star,name
+Jharkhand,50,1,Google
+Tamil Nadu,62,4,Borland
+Manipur,99,3,Adobe
+Punjab,80,1,Google
+Mizoram,68,4,Microsoft
+Nagaland,88,4,Borland
+Himachal Pradesh,62,4,Adobe
+Dadra and Nagar Haveli,99,1,Borland
+West Bengal,86,2,Google
+Rajasthan,66,4,Adobe
+Jharkhand,69,2,Microsoft
+West Bengal,54,4,Yahoo
+Goa,87,3,Google
+Kerala,93,5,Adobe
+Manipur,71,1,Borland
+Mizoram,89,2,Yahoo
+Bihar,70,3,Yahoo
+Gujarat,66,4,Microsoft
+Dadra and Nagar Haveli,78,3,Microsoft
+Himachal Pradesh,62,5,Microsoft
+Jharkhand,82,3,Google
+Andaman and Nicobar Islands,82,3,Google
+Uttarakhand,96,1,Microsoft
+Andhra Pradesh,98,4,Google
+West Bengal,96,2,Adobe
+West Bengal,86,4,Yahoo
+Delhi,71,3,Microsoft
+Lakshadweep,52,2,Adobe
+Chandigarh,68,1,Yahoo
+Madhya Pradesh,67,1,Microsoft
+Daman and Diu,71,5,Google
+Chhattisgarh,53,2,Yahoo
+Gujarat,95,1,Adobe
+Assam,80,2,Borland
+Assam,73,2,Yahoo
+Bihar,82,1,Yahoo
+Andaman and Nicobar Islands,72,4,Borland
+Haryana,72,5,Yahoo
+Bihar,77,3,Adobe
+Lakshadweep,51,3,Borland
+Andhra Pradesh,99,2,Yahoo
+Goa,72,4,Microsoft
+West Bengal,73,2,Yahoo
+Dadra and Nagar Haveli,63,2,Adobe
+Chandigarh,95,2,Yahoo
+Andaman and Nicobar Islands,90,3,Yahoo
+Andaman and Nicobar Islands,91,4,Adobe
+Tripura,96,5,Google
+Pondicherry,98,2,Google
+Delhi,55,4,Borland
+Rajasthan,71,4,Borland
+Delhi,57,5,Microsoft
+Bihar,80,2,Borland
+Delhi,67,2,Adobe
+Nagaland,93,3,Google
+Maharastra,82,2,Adobe
+Tripura,77,4,Google
+Karnataka,84,3,Adobe
+Daman and Diu,90,2,Google
+Chhattisgarh,66,3,Google
+Goa,57,3,Yahoo
+Assam,54,4,Google
+Jharkhand,75,1,Google
+Karnataka,69,2,Adobe
+Mizoram,54,2,Yahoo
+Kerala,95,3,Google
+Kerala,95,2,Microsoft
+Meghalaya,87,2,Google
+Meghalaya,63,2,Google
+Haryana,66,2,Adobe
+Jharkhand,91,3,Yahoo
+Uttarakhand,70,2,Yahoo
+Daman and Diu,80,1,Microsoft
+Punjab,87,2,Microsoft
+Jharkhand,100,2,Google
+Jammu and Kashmir,94,3,Adobe
+Nagaland,89,1,Borland
+Madhya Pradesh,86,2,Yahoo
+Himachal Pradesh,62,3,Adobe
+Odisha,80,4,Borland
+Andaman and Nicobar Islands,66,5,Borland
+Tamil Nadu,93,4,Google
+Jammu and Kashmir,89,4,Microsoft
+Bihar,83,2,Borland
+Daman and Diu,71,4,Borland
+Himachal Pradesh,92,3,Adobe
+Delhi,57,2,Yahoo
+Meghalaya,74,1,Microsoft
+Tamil Nadu,60,4,Yahoo
+Sikkim,58,3,Borland
+Jammu and Kashmir,98,5,Adobe
+Lakshadweep,70,4,Borland
+Andhra Pradesh,87,2,Borland
+Karnataka,88,2,Microsoft
+Chandigarh,98,3,Yahoo
+Sikkim,98,3,Yahoo
+Bihar,100,2,Adobe
+Tripura,69,2,Microsoft
+Lakshadweep,81,2,Adobe
+Punjab,93,1,Adobe
+Uttar Pradesh,53,4,Yahoo
+Dadra and Nagar Haveli,67,2,Yahoo
+Chandigarh,72,4,Google
+Chandigarh,70,4,Yahoo
+Meghalaya,88,3,Google
+Madhya Pradesh,98,2,Microsoft
+Jharkhand,74,3,Adobe
+Punjab,58,5,Yahoo
+Goa,55,2,Borland
+Manipur,65,1,Google
+Tamil Nadu,96,5,Adobe
+Chandigarh,88,3,Microsoft
+Andaman and Nicobar Islands,85,1,Adobe
+Tripura,71,2,Adobe
+Tamil Nadu,74,2,Yahoo
+Uttar Pradesh,52,2,Adobe
+Jharkhand,67,2,Adobe
+Dadra and Nagar Haveli,81,2,Yahoo
+Assam,81,2,Yahoo
+Haryana,77,3,Adobe
+Uttar Pradesh,71,3,Borland
+Sikkim,96,4,Google
+Mizoram,75,4,Google
+Maharastra,59,2,Yahoo
+Himachal Pradesh,92,1,Microsoft
+West Bengal,53,5,Microsoft
+West Bengal,87,5,Microsoft
+West Bengal,57,5,Microsoft
+Mizoram,51,5,Adobe
+Punjab,88,4,Borland
+Delhi,90,4,Microsoft
+Pondicherry,67,2,Microsoft
+Uttarakhand,82,2,Yahoo
+Andaman and Nicobar Islands,50,4,Adobe
+Nagaland,64,4,Google
+Gujarat,66,4,Adobe
+Karnataka,77,5,Yahoo
+West Bengal,73,3,Microsoft
+Mizoram,77,4,Adobe
+Andaman and Nicobar Islands,76,3,Microsoft
+Delhi,78,3,Microsoft
+Pondicherry,55,3,Google
+West Bengal,69,4,Microsoft
+Manipur,87,5,Borland
+Maharastra,53,2,Yahoo
+Gujarat,67,4,Adobe
+Jharkhand,98,1,Microsoft
+Arunachal Pradesh,84,2,Adobe
+Karnataka,77,1,Google
+Uttarakhand,86,3,Yahoo
+Tamil Nadu,52,2,Microsoft
+West Bengal,85,4,Microsoft
+Chhattisgarh,76,3,Borland
+Daman and Diu,64,1,Google
+Maharastra,94,1,Yahoo
+Chandigarh,69,5,Borland
+Bihar,54,3,Adobe
+Gujarat,61,1,Microsoft
+Chhattisgarh,73,1,Yahoo
+Bihar,60,4,Google
+Mizoram,89,3,Adobe
+Delhi,80,3,Microsoft
+Maharastra,71,2,Borland
+Lakshadweep,51,2,Borland
+Assam,75,3,Yahoo
+Punjab,84,2,Google
+Andhra Pradesh,80,4,Google
+Chandigarh,72,3,Borland
+Tripura,54,5,Borland
+Goa,72,4,Yahoo
+Pondicherry,83,4,Adobe
+Jammu and Kashmir,65,4,Yahoo
+Uttar Pradesh,86,5,Google
+West Bengal,96,5,Yahoo
+Andhra Pradesh,89,4,Microsoft
+Haryana,53,2,Borland
+Bihar,83,4,Borland
+Tamil Nadu,96,1,Borland
+Bihar,86,1,Google
+Goa,100,5,Microsoft
+Assam,86,3,Borland
+West Bengal,94,2,Microsoft
+Assam,95,5,Adobe
+Himachal Pradesh,63,4,Microsoft
+Mizoram,81,4,Google
+Manipur,85,3,Microsoft
+Sikkim,80,5,Borland
+Dadra and Nagar Haveli,82,5,Google
+Tripura,87,1,Borland
+Odisha,57,5,Adobe
+Odisha,57,2,Adobe
+Punjab,51,5,Google
+Maharastra,65,4,Adobe
+Odisha,77,4,Google
+Manipur,94,4,Yahoo
+Kerala,65,3,Adobe
+Meghalaya,95,4,Yahoo
+Rajasthan,54,2,Google
+Chandigarh,84,2,Borland
+Nagaland,61,3,Adobe
